@@ -6079,6 +6079,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Park_Gate (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6163602284464558327, guid: 01cc86b4bf3edeb46b9a1c58d8530c98,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
